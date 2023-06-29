@@ -2,4 +2,4 @@
 
 Toy repo for reproducing buildkit bugs.
 
-v0.1.0
+v0.1.4
